@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="button">Button</string>
+    <string name="rb1">I feel good</string>
+    <string name="question">How do you feel today?</string>
+    <string name="answer1">I feel good</string>
+    <string name="answer2">Just so so~</string>
+    <string name="answer3">I feel bad</string>
+    <string name="sw1">Cheer up!</string>
+    <string name="sw2">Be happy everyday!</string>
+</resources>
